@@ -172,7 +172,7 @@
                                 <!-- /.col-lg-6 (nested) -->                                
                                 <div class="col-lg-6">
                                     <h3>Excel파일을 이용한 사원등록</h3>
-                                    <form role="form" method="post" action="addEmpFile" enctype ="multipart/form-data">
+                                    <form role="form" method="post" action="addEmpFile.pay" enctype ="multipart/form-data">
                                         <div class="form-group">
                                             <label>파일을 선택하세요!</label>
                                             <p class="help-block">반드시 제공되는 Excel Template을 사용하여야 합니다.!</p>

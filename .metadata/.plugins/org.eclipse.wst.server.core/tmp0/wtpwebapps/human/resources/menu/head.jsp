@@ -95,6 +95,9 @@
                                 <li>
                                     <a href="#">4대보험세율설정</a>
                                 </li>
+                                <li>
+                                	<a href="testMongo/list">몽고DB Test</a>
+                                </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
