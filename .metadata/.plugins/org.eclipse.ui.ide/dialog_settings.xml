@@ -107,6 +107,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\it\sts-workspace\human_v1.1\human"/>
 			<item value="C:\Users\it\sts-workspace\human_v08\human"/>
 			<item value="C:\Users\it\sts-workspace\human_v04\human"/>
 			<item value="C:\Users\it\sts-workspace\human_v03\human"/>
