@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\it\Desktop\4.3_SpringJDBC.zip"/>
+		<item value="C:\Users\it\Desktop\2.2.2_SpringDIAnnotation.zip"/>
+		<item value="C:\Users\it\Desktop\2.2.1_SpringDI.zip"/>
+	</list>
 	<list key="installedFeatures">
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
 		<item value="org.aspectj:1.9.2.201811011643"/>
