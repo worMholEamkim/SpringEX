@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="4.3_SpringJDBC"/>
+<aop-project name="5.2_SpringWebMVC"/>
 <aop-project name="myapp"/>
 <aop-project name="2.2.1_SpringDI"/>
 <aop-project name="2.2.2_SpringDIAnnotation"/>
